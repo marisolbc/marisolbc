@@ -16,32 +16,31 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'https://twitter.com/noahlet'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: marisolbc@ugr.es
+phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Parque Tecnológico de la Salud, Av. de la Investigación, 11
+  city: Granada
+  region: Granada
+  postcode: '18016'
+  country: Spain
+  country_code: ES
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '37.14948929984035'
+  longitude: '-3.6049095504915676'
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Currently working on remote. Contact me for scheduling a meeting.'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/noahlet'
   - icon: skype
     icon_pack: fab
     name: Skype Me

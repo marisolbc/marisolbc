@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: Academic # Website name
 baseurl: 'https://marisolbc.netlify.app/'
-copyright: '© {2021} Marisol Benitez-Cantos' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Maria S. Benitez-Cantos' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
