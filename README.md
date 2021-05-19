@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64661707-9c77-425c-902e-b10bd29f7fb0/deploy-status)](https://app.netlify.com/sites/marisolbc/deploys)
+
 This is the repository of my personal webpage!
 
 <!--
