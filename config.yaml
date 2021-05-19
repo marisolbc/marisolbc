@@ -5,7 +5,7 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseurl: 'https://marisolbc.netlify.app/' Website URL
+baseurl: 'https://marisolbc.netlify.app/'
 copyright: '© {2021} Marisol Benitez-Cantos' # Footer text, e.g. '© {year} Me'
 
 ############################
