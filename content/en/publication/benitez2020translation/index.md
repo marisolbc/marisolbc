@@ -16,7 +16,7 @@ date: "2020-07-15T00:00:00Z"
 doi: 10.1101/gr.257352.119
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []
@@ -29,7 +29,7 @@ slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Source Themes
+- My publications
 title: Translation initiation downstream from annotated start codons in human mRNAs coevolves with the Kozak context
 url_code: ""
 url_dataset: https://genome.cshlp.org/content/30/7/974/suppl/DC1
