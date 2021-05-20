@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Bioinformatics, Artificial Intelligence and Rep-Seq.
+bio: My research interests include bioinformatics, data visualization and Rep-Seq analysis.
 education:
   courses:
   - course: PhD in Information and Communication Technologies (Bioinformatics)
