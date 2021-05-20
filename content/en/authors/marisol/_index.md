@@ -2,9 +2,6 @@
 bio: My research interests include bioinformatics, data visualization and Rep-Seq analysis.
 education:
   courses:
-  - course: PhD in Information and Communication Technologies (Bioinformatics)
-    institution: Universidad de Granada
-    year: Present
   - course: MSc in Bioinformatics
     institution: Universidad de Murcia
     year: 2021
@@ -36,8 +33,8 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/noahlet
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.es/citations?user=xWr_La4AAAAJ&hl=es
 - icon: github
   icon_pack: fab
@@ -45,6 +42,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marisolbc/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3667-0543
 superuser: true
 title: Marisol Benítez-Cantos
 ---

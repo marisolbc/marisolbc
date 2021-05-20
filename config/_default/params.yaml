@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: rose
+theme: marisol_theme
 day_night: true
 font: ''
 font_size: L
@@ -93,8 +93,8 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
@@ -148,4 +148,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

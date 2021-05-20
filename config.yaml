@@ -4,9 +4,9 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Marisol Benítez-Cantos # Website name
+title: "~/usr/marisol" # Website name
 baseurl: 'https://marisolbc.netlify.app/'
-copyright: '© {year} Marisol Benítez-Cantos' # Footer text, e.g. '© {year} Me'
+copyright: "Made with <i class='far fa-heart'></i> and the <a href='https://bookdown.org/yihui/blogdown/'><i class='fab fa-r-project'></i> blogdown</a> package<br>&copy; Marisol Benítez-Cantos {year}" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
