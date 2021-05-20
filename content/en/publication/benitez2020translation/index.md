@@ -20,7 +20,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Genome Research*'
+publication: '*Genome Research* 30(7)'
 publication_short: ""
 publication_types:
 - "2"

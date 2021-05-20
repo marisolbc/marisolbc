@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Information and Communication Technologies (Bioinformatics)
     institution: Universidad de Granada
-    year: Current
+    year: Present
   - course: MSc in Bioinformatics
     institution: Universidad de Murcia
     year: 2021
