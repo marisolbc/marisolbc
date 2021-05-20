@@ -1,11 +1,10 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Bioinformatics, Artificial Intelligence and Rep-Seq.
 education:
   courses:
   - course: PhD in Information and Communication Technologies (Bioinformatics)
     institution: Universidad de Granada
-    year: 
+    year: Current
   - course: MSc in Bioinformatics
     institution: Universidad de Murcia
     year: 2021
@@ -19,14 +18,14 @@ email: "marisolbc@ugr.es"
 highlight_name: false
 interests:
 - Bioinformatics
-- Artificial Intelligence
-- Immunology
+- Data analysis
+- Data visualization
+- Machine learning
+- Knowledge sharing
 organizations:
-- name: Universidad de Granada
+- name: University of Granada
   url: https://www.ugr.es/
-- name: Universidad de Murcia
-  url: https://www.um.es/
-role: Bioinformatics PhD Student
+role: PhD Student and Teaching Assistant in Bioinformatics
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,11 +46,12 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/marisolbc/
 superuser: true
-title: Marisol Benitez-Cantos
+title: Marisol Benítez-Cantos
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Hi there!** :wave::smile: I am a PhD student in Bioinformatics at the [Univeristy of Granada](https://www.ugr.es). My research interests include the analysis of immunological receptor repertoire sequencing (Rep-Seq) and applications of Artifical Intelligence methods to Bioinformatics. Currently, I also teach medical students how to use Molecular Biology databases to study genetic diseases. I enjoy sharing scientific knowledge to broader audiences with [BioinformaticsGRX](https://bioinformaticsgrx.es/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+[comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

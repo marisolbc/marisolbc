@@ -4,9 +4,9 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Marisol Benitez-Cantos # Website name
+title: Marisol Benítez-Cantos # Website name
 baseurl: 'https://marisolbc.netlify.app/'
-copyright: '© 2021 Maria S. Benitez-Cantos' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Marisol Benítez-Cantos' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
