@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Blog
-    url: '#post'
+    url: '#posts'
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: '#publication'
     weight: 30
   - name: Seminars
     url: '#seminars'
