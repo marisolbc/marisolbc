@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: coffee
 day_night: true
 font: ''
 font_size: L
@@ -23,7 +23,7 @@ twitter: 'https://twitter.com/noahlet'
 email: marisolbc@ugr.es
 phone: 
 address:
-  street: Parque Tecnológico de la Salud, Av. de la Investigación, 11
+  street: Parque Tecnológico de la Salud, Av. de la Investigación, 11 (Currently working on remote)
   city: Granada
   region: Granada
   postcode: '18016'
@@ -34,21 +34,13 @@ coordinates:
   longitude: '-3.6049095504915676'
 directions: 
 office_hours:
-  - 'Currently working on remote. Contact me for scheduling a meeting.'
+  - 'Contact me for scheduling a meeting.'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/noahlet'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
